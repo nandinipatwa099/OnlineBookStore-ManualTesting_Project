@@ -45,28 +45,28 @@ All **manual testing activities**, documentation, reports, and analysis included
 NandiniPatwa-OnlineBookStore_TestingProject/
 │
 ├── 01_PPT/
-│ └── Manual Testing PPT.pdf
+│   └── Manual Testing PPT.pdf
 │
 ├── 02_Project_Report/
-│ └── Project_report OBS.pdf
-|
-├── 03_Testing_Plan/
-│ ├── Adhoc testing (with SS and excelSheet)/
-│ ├── Functional testing (with SS and excelSheet)/
-│ └── Integration testing (with SS and excelSheet)/
-│ ├── Regression testing (with SS and excelSheet)/
-│ ├── Retesting (with SS and excelSheet)/
-│ └── Smoke testing (with SS and excelSheet)/
-│ └── System testing (with SS and excelSheet)/
-│ └── Unit testing (with SS and excelSheet)/
-|
-├── 04_DecisionTable (DT).xlsx/
-│ 
-├── 05_DFD.jpg/
-|
-├── 06_JIRA Report.xlsx/
+│   └── Project_Report_OBS.pdf
 │
-├── 07_RTM.xlsx/
+├── 03_Testing_Plan/
+│   ├── Adhoc testing (with Screenshots & Excel Sheet)/
+│   ├── Functional testing (with Screenshots & Excel Sheet)/
+│   ├── Integration testing (with Screenshots & Excel Sheet)/
+│   ├── Regression testing (with Screenshots & Excel Sheet)/
+│   ├── Retesting (with Screenshots & Excel Sheet)/
+│   ├── Smoke testing (with Screenshots & Excel Sheet)/
+│   ├── System testing (with Screenshots & Excel Sheet)/
+│   └── Unit testing (with Screenshots & Excel Sheet)/
+│
+├── 04_DecisionTable(DT).xlsx
+│
+├── 05_DFD.jpg
+│
+├── 06_JIRA_Report.xlsx
+│
+└── 07_RTM.xlsx
 
 ---
 
