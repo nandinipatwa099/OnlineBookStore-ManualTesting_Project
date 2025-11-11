@@ -42,7 +42,7 @@ All **manual testing activities**, documentation, reports, and analysis included
 
 ## 📂 Project Structure
 
-NandiniPatwa-OnlineBookStore_TestingProject/
+```NandiniPatwa-OnlineBookStore-ManualTesting-Project/
 │
 ├── 01_PPT/
 │   └── Manual Testing PPT.pdf
@@ -51,14 +51,14 @@ NandiniPatwa-OnlineBookStore_TestingProject/
 │   └── Project_Report_OBS.pdf
 │
 ├── 03_Testing_Plan/
-│   ├── Adhoc testing (with Screenshots & Excel Sheet)/
-│   ├── Functional testing (with Screenshots & Excel Sheet)/
-│   ├── Integration testing (with Screenshots & Excel Sheet)/
-│   ├── Regression testing (with Screenshots & Excel Sheet)/
+│   ├── Adhoc Testing (with Screenshots & Excel Sheet)/
+│   ├── Functional Testing (with Screenshots & Excel Sheet)/
+│   ├── Integration Testing (with Screenshots & Excel Sheet)/
+│   ├── Regression Testing (with Screenshots & Excel Sheet)/
 │   ├── Retesting (with Screenshots & Excel Sheet)/
-│   ├── Smoke testing (with Screenshots & Excel Sheet)/
-│   ├── System testing (with Screenshots & Excel Sheet)/
-│   └── Unit testing (with Screenshots & Excel Sheet)/
+│   ├── Smoke Testing (with Screenshots & Excel Sheet)/
+│   ├── System Testing (with Screenshots & Excel Sheet)/
+│   └── Unit Testing (with Screenshots & Excel Sheet)/
 │
 ├── 04_DecisionTable(DT).xlsx
 │
@@ -67,6 +67,8 @@ NandiniPatwa-OnlineBookStore_TestingProject/
 ├── 06_JIRA_Report.xlsx
 │
 └── 07_RTM.xlsx
+```
+
 
 ---
 
