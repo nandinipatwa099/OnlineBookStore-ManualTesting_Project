@@ -136,7 +136,7 @@ B.Tech (Computer Science & Engineering) | **ABES Institute of Technology**
 📧 [nandinipatwa7305@gmail.com](mailto:nandinipatwa7305@gmail.com)  
 
 💼 **LinkedIn:** [https://www.linkedin.com/in/nandini-patwa-096074293/](https://www.linkedin.com/in/nandini-patwa-096074293/)
-🌐 **GitHub:** [Add your GitHub project link once uploaded]
+🌐 **GitHub:** [https://github.com/nandinipatwa099/OnlineBookStore-ManualTesting_Project.git](https://github.com/nandinipatwa099/OnlineBookStore-ManualTesting_Project.git)
 
 ---
 
